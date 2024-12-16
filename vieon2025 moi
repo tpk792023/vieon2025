@@ -1,0 +1,385 @@
+
+#EXTM3U #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml" 
+#EXTINF:0 group-title="TV Vieon"tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.webp",An Giang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/96e9a01c13c11ef1d9a762175ea2d81e/1734443826000/livetv/enc/7398f17dd64be624bee6e208cc2d03b4/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/29/6wcqgx0o_antv6f5c0b4042fc7777d54ce1b0ba22a056_296_168.webp",An Ninh TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/
+https://livecdn-vthcm-gcore.vieon.vn/b81a6632e7f857fe757550e72c8d0996/1734443827000/livetv/enc/0b31e022261adf9fc6ce82660ed452d1/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/5ztyns10_anvien-tv_296_168.webp",An Viên HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/3bb4188e5d1c10c5ab2f49d9d9a183fc/1734443828000/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp",Bà Rịa Vũng Tàu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/2f4389a874e9f3207d32b1fd5e9d2461/1734443829000/livetv/enc/d355b8d194b6f472e868d605231b8561/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/2c2gw5du_bac-giang_296_168.webp",Bắc Giang HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/ec4d4bc4205bb45cf039ca1d736aebd9/1734443830000/livetv/enc/dec8b8ec1b6f93fbd1ac4a90ea09333c/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/04/gvx6bnnv_backan_296_168.webp",Bắc Kạn 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/e5e48b49f6253fad8a8626553e8fbbac/1734443831000/livetv/enc/90234a7fc116ce57f626f96fcb9de476/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/8bppmif1_bac-lieu_296_168.webp",Bạc Liêu 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/567987c11d7c4f6816bc474d8cbf8174/1734443833000/livetv/enc/ce5f65749285b050e8a50d4471428184/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/17/5yhnk0cr_bacninh_296_168.webp",Bắc Ninh 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/d26ec5ad7a564fc486474bd87b3f2049/1734443834000/livetv/enc/6ab9e31de0fa22dc902c1032ff0dfc22/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/21/xonh4nd2_ben-tre_296_168.webp",Bến Tre 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/901ec3ab519124f830c4d4f94f7e9e1e/1734443835000/livetv/enc/ad0a64f9a7fc84f78390a5ae450acfcd/playlist.m3u8?c=a #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/xry15n68_binh-dinh_296_168.webp",Bình Định 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/88efb6d3af97a666c55a78189e0ba800/1734443836000/livetv/enc/33f5037d9482df9986734a49c32a98d6/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ed7v7ycs_binh-duong-1_296_168.webp",Bình Dương 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5e7ac596132319841951ce9bf37021fb/1734443838000/livetv/enc/d8bae67ce818ed6b280ad78b035b8484/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/yeui1ik3_binh-duong-2_296_168.webp",Bình Dương 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/69de2c0bd0f8d1d101a7a69be91ccda9/1734443839000/livetv/enc/d224c1504643dd5022491532f84ce7ab/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/4tifgo6e_binh-phuoc-1_296_168.webp",Bình Phước 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/c0ed0a41040f7133b4304b3853414219/1734443840000/livetv/enc/408f876da3e5144b6c5ba55af9efa551/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vn4bgptg_binh-phuoc-2_296_168.webp",Bình Phước 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/17f4a1ed2572456725d455acb2c1c7f0/1734443841000/livetv/enc/3d9548740be434b49277ccb8952af8c9/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uptrequc_binh-thuan_296_168.webp",Bình Thuận 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/84b2c31974b389cc9aea018c39e3417f/1734443842000/livetv/enc/618decb11a932265ef4c64679ed8d80d/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/v9up84rb_camautv_296_168.webp",Cà Mau 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/6d8b9a52f94caea332985d2efd3e7cde/1734443843000/livetv/enc/e5566ce84dbd12af9b594911da257b70/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.webp",Cần Thơ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5376a6929a1c210d39959e43e8b68639/1734443844000/livetv/enc/7a3eefa65c1b20d6dbd945adcb41fa46/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/d8ub5k12_da-nang-1_296_168.webp",Đà Nẵng 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/398cd634e171aa3a91d85c7f3b4eed8e/1734443846000/livetv/enc/c656c5d74d17c80880e8abbd619f1f16/playlist.m3u8?c=a #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/gkswvyqt_da-nang-2_296_168.webp",Đà Nẵng 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/b72007ce3d35ca0b524c9efe9571c683/1734443847000/livetv/enc/646f33421dc986b452d925360cab17ae/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp",Đắk Lắk 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/e879b402b58260c19f1965d2eb0d8fa1/1734443848000/livetv/enc/968a33da1fd6f8af7fbb2f309be64552/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/f9he9pvi_dak-nong_296_168.webp",Đắk Nông 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/32cba8109eff8b5eb1680216ad9630c5/1734443849000/livetv/enc/8d63beec92c317e123db3cee613edd01/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/05/10/e3ffx4gg_dien-bien_296_168.webp",Điện Biên 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/8d7dee014773dd2fc4c9e0e042558472/1734443850000/livetv/enc/f9aab8cf6a825b2de53d482713ee7ff7/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.webp",Đồng Nai 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/3e1997a70b3131599876e3e14ee62d85/1734443851000/livetv/enc/15fc82c22a6cd2ee7f77b060ae195b7e/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/tscbn8gp_dong-nai-2_296_168.webp",Đồng Nai 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/04e0af86a871d4da917045574c2699d5/1734443852000/livetv/enc/bbb8e258c989e3fccd22b2e2ed96233e/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.webp",Đồng Nai 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/39e5d41ca715b86114863a3fc3052605/1734443854000/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/11/t18jfg4a_dong-thap-2_296_168.webp",Đồng Tháp 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/cb5c06abd02184a6dd84bd8d384693b6/1734443855000/livetv/enc/c744591b45be14dfa6b9533532a719d7/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/rvmuq9sp_dong-thap-2_296_168.webp",Đồng Tháp 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/bd8c7c608e06418e518962a2392fa3cf/1734443856000/livetv/enc/fd62c33380acdcbe3f384d8bba635d4b/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/01/12/pm1pwb1b_ngangaef1879b1a1af133d371318c9c605176_296_168.webp",FM90 - Tin tức & Giao thông Hà Nội 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5813a9cbe5e047ac231272c6903b0d61/1734443857000/livetv/enc2/adc15dbe434e8ff54a201cad5080daa1/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/vuwiap1r_gialai_296_168.webp",Gia Lai 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/495e264b53229177f7ba146bcb572418/1734443858000/livetv/enc/9f4355c411f129b47035075582d97e8f/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/pkpzjr52_hagiang_296_168.webp",Hà Giang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/b0966841134103d6dda5110406478788/1734443859000/livetv/enc/d1a6a3df7928267f1947b1a0fa37e774/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/m168rhbp_ha-nam_296_168.webp",Hà Nam 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/fe3e946e068498baf489c1c1f8afc8ed/1734443860000/livetv/enc/ea0ef63bd247a760fae50bfe70da378a/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/10/07/ggs6p5sh_ha-noi-10583e5bef56fcfef88389ccc79ba014e_296_168.webp",Hà Nội 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/bdd5e9e50c47ebf9c3260d59491240b1/1734443861000/livetv/enc2/09cc97f801692ebb8144f50e5750febe/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/9c88742w_biqbzzqb_ha-noi-2c03d1f0b9c81c11c32b050a8c77f95ee_296_168.webp",Hà Nội 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/c9add0d0637b1b5d7d76249563255d3b/1734443862000/livetv/enc2/1f84f9beb924cff49ea2d209cc511f57/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/9fs1rt7q_ha-tinh_296_168.webp",Hà Tĩnh 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/7f60f6ff71312c51f23ea24f32ce1af6/1734443863000/livetv/enc/0b22f90016052bc758dd97715a5abc91/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/10/23/j1ihrr5n_thumb-op1_296_168.webp",Hải Dương 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/ff2e17841608d50d94f1fcf7bd6e12a3/1734443864000/livetv/enc/3faa7e4e72d28e17444440e86763d1b1/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/02xhmdvn_thp_296_168.webp",Hải Phòng 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/fd70b8ffed27d1773c306904e671ce4d/1734443865000/livetv/enc2/49269df99e46a0a7ff72d23325a52048/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/z3mhn11v_thp_296_168.webp",Hải Phòng + 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/ed1695b85a65f6f8e77bf9fbbdd12c6a/1734443866000/livetv/enc2/20e6f9a35b615b04b07383437adceafc/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/05/09/y2wqgi6p_thumb-hau-giang_296_168.webp",Hậu Giang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/8e639120630ae8f9e9364e95ab6e048f/1734443868000/livetv/enc/5c0ef0a46e5a1e0547f6c844247f8466/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/85ssgdg8_hoa-binh06a1bd017a23b35346957ec763a8e47c_296_168.webp",Hòa Bình 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/d6b1d6181839dde453da076621289976/1734443869000/livetv/enc/3901995376da6cf64d0ee972de51ea74/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/f0u5dp2g_htv-keyd63a66192fb894094e9a809afd54aaf6_296_168.webp",HTV Key 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/84f1c8cd484596d6ca468707e0b2861b/1734443870000/livetv/enc/91e13f38078114329b4b4d45f613924b/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/06/15/b964f4yu_htv-the-thao-newc78682053e137aaab114e57138faf3d2_296_168.webp",HTV Thể Thao HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/f54e9e172a03c918df8d8493c427dbf2/1734443871000/livetv/enc/d3d81ce359479433b1ccf8d14c1d6578/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/07/31/9tkj4nag_htv112a746c20eb4c92349fd591f8e35473ed_296_168.webp",HTV1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/dc570500dd3ff7ef440b755556e48261/1734443872000/livetv/enc/93068c2a0ec828ae6ee56aa628341497/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/2yoph2z9_htv3b40c1feb3e93079cf4d13c6e8f58c0e2_296_168.webp",HTV3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/893ed3026459e9b4a91a6b02e09e4666/1734443873000/livetv/enc/96f1e40fdc011502d396c2eb0c3d9627/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/05/16/p8ms82i1_htv7-16-05-2024786120c5f02ea56ac1b26160caab3d2c_296_168.webp",HTV7 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/893e8c2e98307dffcd0d6aac5d245331/1734443874000/livetv/enc/60efe6198ce953ae1411fb164e334367/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/05/08/rhtg43e2_htv915b4297ab3bdc564d9f5896677938fc0_296_168.webp",HTV9 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/9eea31f48c56dcd1bf07da69c239b597/1734443875000/livetv/enc/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/bp6rq37b_htvccanhac_296_168.webp",HTVC Ca Nhạc HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/83088a6a35fcca92ebe916176d7595ef/1734443876000/livetv/enc/b565c337b64d304f3f13f8848451e6ec/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.webp",HTVC Du lịch & Cuộc sống HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/ede2ab0f49a75ad74bbab641b3f8d610/1734443877000/livetv/enc/38c4313cc4259dc1319176800bf3ae4a/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/1cgsej7h_htvc-gia-dinh_296_168.webp",HTVC Gia Đình HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5cf2aeb11c3746813faf8e3178566e16/1734443878000/livetv/enc/eb22dc424b2b5f6dc465251ef7719271/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/7mskjha6_htvcphim_296_168.webp",HTVC Phim HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/af21b317c51535aea50d50c8887a96bd/1734443879000/livetv/enc/59b0a6687f2273069f2dfb0fecb9e03d/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp",HTVC Phụ Nữ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/691b9e433462fd3d99ba523020f63d16/1734443880000/livetv/enc/db7cbd168f683a415f970b3ccc31e2b1/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/kzkbf3xc_htvcthuanviethd_296_168.webp",HTVC Thuần Việt HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/8fa76fb826625106db6ab0e0afffb2e0/1734443881000/livetv/enc/c5ca04c91149a945c74c9f62c12d78c2/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/f8aa2431a6f1d28f19c296cd1a2df0e2/1734443883000/livetv/enc/e74fd2dce10d3e3214a67179927ae5f1/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/21/0rpnq0fk_khanh-hoa_296_168.webp",Khánh Hòa 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/41f3595b3fdfd72faecccaaa24e6ccb5/1734443884000/livetv/enc/fb139d5b459e0dd88a866e7b1721a48d/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/15ksog4n_kontum-1_296_168.webp",Kon Tum 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/0142d896b2f88cc14c085f3e3aa14482/1734443885000/livetv/enc/a8f1eb60af6121cf7652772e5201bab6/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.webp",Lâm Đồng 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/a4778fe1f94c07183989aeb577e711cb/1734443886000/livetv/enc/43c888f6be08e70f346da71a0447727f/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/kgun67b5_lang-son_296_168.webp",Lạng Sơn 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/572f7d118edbddf8cff1302ad29d54e0/1734443887000/livetv/enc/d75e74abfc96a18f4155d0afcb71f1a6/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ch0rj2o1_long-an_296_168.webp",Long An 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/82062f3d83d7ad128a475b61131cd01f/1734443888000/livetv/enc/6011f73fa173cdf7365742d9fe60274d/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/6fvhqoke_namdinhe7c082f8b4d11f98d788f2471c8e7c10_296_168.webp",Nam Định 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/d04db86918d7a544c8b885cf77e23042/1734443889000/livetv/enc/b7c44443e27fe4eb00993a50d54db6f7/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/2f96yu6e_nghe-anc59b1eb4f19eb9b3ab6ec12ffd77dd69_296_168.webp",Nghệ An 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/3e0e42780f5b9593048e4937298d11f4/1734443890000/livetv/enc/17d298f776899886fb9380b49a3f3a45/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/w5rqtt1d_nhan-dan_296_168.webp",Nhân Dân TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/2537cd95c57f09dff5fe301722f24855/1734443891000/livetv/enc/45c80ff751c4969a30273fe7229ebfb2/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/14/d7j2tiuh_ninhbinhtv_296_168.webp",Ninh Bình 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/65e521f6a40319349009cc0d7c8a03e4/1734443892000/livetv/enc/ced5dbb3c6406d06cd81cfc355b1bd66/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.webp",Ninh Thuận 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/a0c4b2d074fb3fcefc1b3c1ec14bde45/1734443893000/livetv/enc/90d914c27b2e3ce4c680cd03a10c2698/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/08/o15gsz1w_vtvcab_update_296_168.webp",Phú Thọ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/06b53c3254e746998be4eb94f725637e/1734443894000/livetv/enc2/f8dc6464cbcecd9844c85762f521e99d/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/deyzty1b_quang-nam_296_168.webp",Quảng Nam 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5a4de4f508fd4fec7537f3a05c72c59d/1734443895000/livetv/enc/2226024b4dfbc74a4c7f20003789e975/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp",Quảng Ninh 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/c02744903b6c9e8288887a599d4d091b/1734443896000/livetv/enc/f570b7e504ec24bc0aac692cfe2d4777/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/9dq9w4e7_quoc-hoif34869710e82e140f5978008fada9504_296_168.webp",Quốc Hội HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/9aa6e9331cf2aa1ae118c79e260a3c63/1734443897000/livetv/enc/fb86bc1b6dbac1c4371c4bc1182b6ac3/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/16/iqu38kg2_quocphong-newfa8917a6efb72debe7c917d4b19466ce_296_168.webp",Quốc Phòng HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/388474e27c1bd6eca9a8026f41f3e1cd/1734443898000/livetv/enc/fc5f01a96c49d406910925ef5f5cb48b/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp",Sóc Trăng 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/9fa6cba440e7745989c45ee629cbc819/1734443899000/livetv/enc/c1a7148910edc8b41a2b2064bc20c5e0/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/3zwahyeb_tay-ninh_296_168.webp",Tây Ninh HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/c3edcac64cd53da058574e8c4b8ccecf/1734443900000/livetv/enc/b11e71252a65a5bd614ff85f63c6c9d5/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6gx5feuu_vnews_296_168.webp",TH Thông Tấn HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/16b7a797333cb96b0e204d392428103c/1734443901000/livetv/enc/bb305bfd08f9d3d190fb13b64a906fbc/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/1vzivocp_thaibinh_296_168.webp",Thái Bình 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/61309d0800b6ff1f7af6eb2aa48a992d/1734443902000/livetv/enc/9a1039d65d59bb75349e2e0464c8289d/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/78i2i4aw_thainguyen_296_168.webp",Thái Nguyên 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/888dabb3483806327157f457cf59248f/1734443903000/livetv/enc/0e8e4c5e13a6611256528ba9616e5e6f/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp",Thanh Hóa 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/732935b5c9ae06c31e34d48dcb3746bd/1734443904000/livetv/enc/331539b2024ad0c3bdb8812c6bc3c6a9/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/p5yvku7m_thua-thien-hue_296_168.webp",Thừa Thiên Huế 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/db0db29fc11a52c4d1ac6dea4267e0e9/1734443905000/livetv/enc/e8d9b4d14a7c8fa9b05bffe5d557684c/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/zz2iq4do_tien-giang_296_168.webp",Tiền Giang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/7f8e58724e6dfd4e6f0353bda0d487f3/1734443906000/livetv/enc/dd35d611da35c46d1760331743cb909a/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/07/xxkfadmf_tra-vinh_296_168.webp",Trà Vinh 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/c9e8e44583130d3dca05b675770677d8/1734443907000/livetv/enc/4613aed1b1174347f0c42c2296b893da/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/23/shc7wvno_thtv2_thumb_296_168.webp",Trà Vinh 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/d72c93c42966014aa254f064ecdf2ea4/1734443908000/livetv/enc/017e4cf48231bec5591a430dc6f4529b/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp",Tuyên Quang 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/fc5932340033b8df36af84fd83aab891/1734443909000/livetv/enc/5b148b3f3c28d59ed50e472be07f7ebe/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/09/27/0dfo2fq0_0i4dr5t8_htv202ab4a81e3e83fe9e9e2011bad6ef939_296_168.webp",Vie Channel HTV2 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/ea24a86dd13cd21de5296ff3ae219d30/1734443910000/livetv/enc/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/09/27/ha0cexmf_vie-dramas527d073dbb1ac9bca3920062293bd559_296_168.webp",Vie Dramas HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/eb49bf657b565b8dc53eaa976b8a5dbd/1734443911000/livetv/enc2/9416aa65cec57d5b01ed0e2297e1b4e3/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/09/27/0ftp1qmd_vie-giai-tri7f04bb7b4b94b505ff610e8e02bea182_296_168.webp",Vie Giải Trí HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/94af5d9f2c15036108530e7a95ad85a7/1734443912000/livetv/enc2/e1866a2319433853e08a3ab662932c34/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/05/09/tj081yei_vinh-long-1e26160d29106ac9e53c7685e3cd9d3b1_296_168.webp",Vĩnh Long 1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/8fd36f4191b77a695cb2cd8707cf9c3b/1734443913000/livetv/enc/b39935eee4d0c52fd9a5357c4ade8cc2/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/21/s5a0ind2_thumb-vinh-long-28e178b8b7610fcac686d4db7f93630ae_296_168.webp",Vĩnh Long 2 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/
+https://livecdn-vthcm-gcore.vieon.vn/5a8c788489186217e6b5b38fadc9afbb/1734443914000/livetv/enc/8782328c0b24e63b80af42e73fabdad5/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/1gnf3s0c_3d1a0e431a504ecc9149e67ac8aa0a596_296_168.webp",Vĩnh Long 3 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/a4feb0a5e62abced508a0837e7cd6b9a/1734443915000/livetv/enc/d163c8c091b5c937a0b5789d2be251b4/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/r26h5snk_4332b8919ef1a9049e9711064f4a94915_296_168.webp",Vĩnh Long 4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/5cc5a8b8f0f34ffc5f91c8dc4a701194/1734443916000/livetv/enc/759df25e7b439639ed0c2588b776735b/playlist.m3u8 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/07/18/vspmnymg_5_296_168.webp",Vĩnh Long Audio 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/dfc51807b2a575d182f9970da207445d/1734443917000/livetv/enc/8c79528926768a54a5a56f58f8a37033/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/39tmiee9_vtc1_296_168.webp",VTC1 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/43f125417e3df52a4db1d845df9d1a8a/1734443918000/livetv/enc2/42c1afe4371b9c51439cd091a8b6ac41/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/e6sv51kc_vtc10024b079893b7a22057b509b56bfffc9e_296_168.webp",VTC10 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/882055d7510fbda5b3393adbbd190153/1734443919000/livetv/enc2/a27f479e600b1f5fcc0da9daa9d47d09/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/1v7y4sup_vtc11_296_168.webp",VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/7d582ae948f3aa3e6b47f3306166e928/1734443920000/livetv/enc2/ae4ebdcd92f48ade383f1efd049b99ed/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="
+https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/e80a4f27c8ed5e8c8c87f9daca9d13bf/1734443921000/livetv/enc2/a3f34232088675f540d64a3b5e14bd66/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/hscibubb_vtc16de2a2157774943ce86f25d901abb03b3_296_168.webp",VTC16 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/4afba3abe794a55aa280559fb1e15bf7/1734443922000/livetv/enc2/c9c64a49f870b01934ff3fd92363da73/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/28/nvmqxj41_vtc25034bcf11e1fe496cf67512e0a2c0732_296_168.webp",VTC2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/329c7e51ac20e6ad5a35dff9855a7468/1734443923000/livetv/enc2/64c7609cb7fb8418d5fdcf6a904e0b45/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/07/31/36yaf3kf_vtc3-1bdb190572dc889674da98194d6bb8435_296_168.webp",VTC3 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/71b37a3bb04df47a888c2e78508a376c/1734443925000/livetv/enc2/59dfd4e2d5e9542af2d7573faf8d7a1f/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/ipnfrbei_vtc4_296_168.webp",VTC4 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/3e48692597574ff89b034a260f7b8ee4/1734443926000/livetv/enc2/1232e9a19c061c04c23804fea02dfa84/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/1ee4d7t6_vtc5_296_168.webp",VTC5 HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/6050ff6717796973752733fd44398fc0/1734443927000/livetv/enc2/2e7961fc83aec4de1b6ed726b16a1844/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/28/b8hpyiuw_vtc6_296_168.webp",VTC6 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://vieon.vn/ 
+https://livecdn-vthcm-gcore.vieon.vn/91b018f9613dbafdcdfebf8e2da251ab/1734443928000/livetv/enc2/386ebe0604ac30b07c66c559118521b8/playlist.m3u8?c=a 
+#EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/21/q4u1bjj4_thumb-today6760c8dffb620fc9776c42ac7cb0a7c2_296_168.webp",VTC7 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/0137e41d230d7799e465fcb573caf740/1734443929000/livetv/enc2/1a1782ddda155d3fa55fca3227f16c3b/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/r3antohi_vtc8000e10e22bf16a605ed2c70d4be2f104_296_168.webp",VTC8 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/cbdfefa8350066c6868cf453caf2fded/1734443930000/livetv/enc2/d278f1bec2626b422ffe0fce367a029f/playlist.m3u8?c=a #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/22/hbzae6j4_vtc98353f84d779dbe2d51fcffbb8f67a024_296_168.webp",VTC9 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/74ff527e882208218b47b38a5413145d/1734443931000/livetv/enc2/a711926ffd5714c00c7aaa08042e764a/playlist.m3u8?c=a #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.webp",VTV Cần Thơ #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-vnw.vieon.vn/1vn0VG8Ku_jXbaOseon-2w/1734443932/livetv/enc2/fdb7f91923323e646a69ce149f95f6cd/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/06/14/qd5g7xqk_vtv1_tet_hoa_xuan_caa398ae276722eeb227b6efa9f7f1d44f_296_168.webp",VTV1 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/ae2e51d4dc8861e11bc19791bc764509/1734443933000/livetv/enc2/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/09/05/738q32au_vtv2e4efdcc5bc360e54d7c218fdd5ce171d_296_168.webp",VTV2 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-vnw.vieon.vn/glN74l3OY1AicIeOqs87Rg/1734443934/livetv/enc2/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/09/13/pjynh9ar_123af390d761343045c7a2ac3400123d456_296_168.webp",VTV3 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/74f837d6fed4eb3c2e24e1b31e325618/1734443935000/livetv/enc2/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.webp",VTV4 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/345117bd25d689c68e12f600df3bedba/1734443936000/livetv/enc2/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/06/14/5fytohum_vtv5_2808202368f788786af86e4c48d000d973749e96_296_168.webp",VTV5 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-vnw.vieon.vn/NKjLqrkxywd399KVPzbkGw/1734443937/livetv/enc2/53a3ed9b2879dc2dcc2051bff6060b37/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",VTV5 Tây Nam Bộ #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/cd1ae7171c905afc54841e352322196d/1734443938000/livetv/enc2/f1198968254f3d74c366645e9f5e260d/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp",VTV5 Tây Nguyên #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/1bdcd9880d0256a38fff9747fe4e1aa0/1734443939000/livetv/enc2/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/05/2q571qa6_vtv7d7962270987bf20c053af427d6f13dad_296_168.webp",VTV7 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/f5cc99514d98fe0eb855516394567b00/1734443940000/livetv/enc2/67d1c84cac97171d714848c4c34c2b3a/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.webp",VTV8 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/ef69c58d012b91d6880a71358f689363/1734443941000/livetv/enc2/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8 #EXTINF:0 group-title="TV Vieon" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/05/09/v7xh3gtj_vtv91034e87a65839d8e73c8121ac1002fda_296_168.webp",VTV9 HD #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36 #EXTVLCOPT:http-referrer=https://vieon.vn/ https://livecdn-vthcm-gcore.vieon.vn/70b68001205414eb1bf4d9862ed4f170/1734443942000/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8
